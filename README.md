@@ -9,7 +9,7 @@ POST api/articles/{id}
 id | int | * Параметр в url, идентификатор товара 
 name | string | * Название товара, не менее 2 символов
 description | text |  *
-count | int/null/'' |  количество 
+count | int/null/'' |  Количество 
 
 Пример ответа
 
@@ -48,7 +48,7 @@ PUT api/articles/{id}
 id | int | * Параметр в url, идентификатор товара 
 name | string | * Название товара, не менее 2 символов
 description | text |  *
-count | int/null/'' |  количество 
+count | int/null/'' |  Количество 
 
 Пример ответа
 
